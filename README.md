@@ -10,7 +10,6 @@
   </div>
 </div>
 
-<br>
 <div>
   <h2>🛠 Languages and Tools:</h2>
   <p>
@@ -34,7 +33,6 @@
   </p>
 </div>
 
-<br>
 <div>
   <h2>📊 GitHub Stats:</h2>
   <div>
