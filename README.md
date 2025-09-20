@@ -36,17 +36,20 @@
 
 <br>
 <div>
-  <h2>📊 My Stats:</h2>
+  <h2>📊 GitHub Stats:</h2>
   <div>
-    <p align="center">
+<!--     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=JhnLevi&show_icons=true&theme=dark&hide_border=true&locale=en" alt="Jhnlevi" />
     </p>
     <p align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhnLevi&theme=dark&hide_border=true" alt="JhnLevi" />
-    </p>
-    <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhnlevi&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="Jhnlevi" />
-    </p>
+    </p> -->
+    <table width="100%">
+      <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=JhnLevi&show_icons=true&theme=dark&hide_border=true&locale=en" alt="Jhnlevi" /></td>
+        <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=JhnLevi&theme=dark&hide_border=true" alt="JhnLevi" /></td>
+      </tr>
+    </table>
   </div>
 </div>
 
