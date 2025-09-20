@@ -9,7 +9,10 @@
   <p align="justify">I’m an aspiring QA Engineer / SDET passionate about test automation and building reliable solutions. My journey started in front-end development, where I worked with HTML, CSS, JavaScript, Sass, AngularJS, React, Bootstrap, and Tailwind. Later, I transitioned into QA as a Manual Tester, and now I’m focused on automation testing with Selenium, Playwright, and plans to explore Cypress, Postman, and Docker to strengthen CI/CD pipelines.</p>
 </div>
 
+<!-- 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&reversal=false"  width="100%">
+-->
+<br>
 
 <div>
   <h3>🛠 Languages and Tools:</h3>
@@ -52,7 +55,10 @@
   </p>
 </div>
 
+<!--
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&reversal=false"  width="100%">
+-->
+<br>
 
 <div>
   <h3>📊 My Stats:</h3>
@@ -69,7 +75,7 @@
   </div>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 
 <!--
