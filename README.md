@@ -12,7 +12,6 @@
 <!-- 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&reversal=false"  width="100%">
 -->
-<br>
 
 <div>
   <h3>🛠 Languages and Tools:</h3>
@@ -58,7 +57,6 @@
 <!--
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&reversal=false"  width="100%">
 -->
-<br>
 
 <div>
   <h3>📊 My Stats:</h3>
