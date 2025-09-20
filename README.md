@@ -59,8 +59,12 @@
   <div>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=JhnLevi&show_icons=true&theme=dark&hide_border=true&locale=en" alt="Jhnlevi" />
+    </p>
+    <p align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhnLevi&theme=dark&hide_border=true" alt="JhnLevi" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhnlevi&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="Jhnlevi" />
+    </p>
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhnlevi&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="Jhnlevi" />
     </p>
   </div>
 </div>
