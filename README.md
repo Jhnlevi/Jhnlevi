@@ -1,9 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FDDB6D&height=100&section=header" width="100%">
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=FDDB6D&height=100&section=header" width="100%"> -->
+
+
 <div>
-  <div>
-    <h2>Hi, I'm Levi!👋</h2>
-    <a href="https://www.linkedin.com/in/john-levi-barcenas-7903821b4" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-  </div>
+    <!--
+    <div>
+      <h2>Hi, I'm Levi!👋</h2>
+      <a href="https://www.linkedin.com/in/john-levi-barcenas-7903821b4" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+    </div>
+    -->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=800&color=FDDB6D&vCenter=true&width=750&separator=%3C&lines=Console.WriteLine(%22Hi!+I'm+Levi%22);%3CConsole.WriteLine(%22Welcome+to+my+profile!%22);" alt="Typing SVG" /></a>
   <div>
     <h3>📖 About Me:</h3>
     <p align="justify">I’m an aspiring QA Engineer / SDET passionate about test automation and building reliable solutions. My journey started in front-end development, where I worked with HTML, CSS, JavaScript, Sass, AngularJS, React, Bootstrap, and Tailwind. Later, I transitioned into QA as a Manual Tester, and now I’m focused on automation testing with Selenium, Playwright, and plans to explore Cypress, Postman, and Docker to strengthen CI/CD pipelines.</p>
@@ -11,7 +16,7 @@
 </div>
 
 <div>
-  <h2>🛠 Languages and Tools:</h2>
+  <h2>🛠 Tech stack:</h2>
   <p>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/></a> 
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a> 
@@ -51,4 +56,4 @@
   </div>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FDDB6D&height=100&section=footer" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=FDDB6D&height=100&section=footer" width="100%"/> -->
