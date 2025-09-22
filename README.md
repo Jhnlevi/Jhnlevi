@@ -1,6 +1,8 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=FDDB6D&height=100&section=header" width="100%"> -->
 <img src="https://typograssy.deno.dev/api?text=Hello,%20I'm%20Levi!%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&l0=151b23&bg=0d1117&frame=0d1117&speed=75&comment=" width="100%">
 
+<br>
+
 <div>
     <!--     <h3>📖 About Me:</h3> -->
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1500&color=E6C763FF&vCenter=true&width=600&height=30&separator=%3C&lines=Console.WriteLine(%22About+me%3A%22);" alt="Typing SVG" /></a>
